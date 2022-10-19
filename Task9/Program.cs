@@ -3,6 +3,7 @@
 // 12-> 2 
 // 85 -> 8
 
+
 int number = new Random().Next(10,100);
 Console.WriteLine(number);
 int number1 = number/10;
